@@ -5,8 +5,7 @@ export const AreaFooter = styled.div`
 
 background-color: #000;
 height:30px;  
-position:absolute;
-bottom:0;
+margin-top 30px;
 width:100%;
 text-align: center;
 
